@@ -1,0 +1,4 @@
+{
+  "PlayerName1": {"key": "ABC123", "active": true},
+  "PlayerName2": {"key": "XYZ789", "active": false}
+}
